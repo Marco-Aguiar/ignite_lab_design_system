@@ -18,4 +18,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O projeto é um componente que simula o formulário de preenchimento de login, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.<br>
-Você pode vê-lo aqui (https://credit-card-forms.vercel.app)
